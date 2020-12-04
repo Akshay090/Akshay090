@@ -3,7 +3,7 @@
 <h3 align="center">This is the place where I hack, break and learn stuff.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay090" alt="akshay090" /> </p>
 
-- 🔭 I’m currently working on [ClipMaster](https://github.com/Akshay090/ClipMaster)
+- 🔭 I’m currently working on [my-book-shelf](https://github.com/Akshay090/my-book-shelf)
 
 - 👯 I’m looking to collaborate on [MDX](https://mdxjs.com)
 
